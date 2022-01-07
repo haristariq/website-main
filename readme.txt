@@ -1,4 +1,4 @@
-https://haristariq.github.io/website-main/
+https://haristariq.com
 Credits
 =======
 Framework  http://getbootstrap.com
